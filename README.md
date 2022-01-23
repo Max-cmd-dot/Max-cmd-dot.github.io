@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
 You can use the [editor on GitHub](https://github.com/Max-cmd-dot/Max-cmd-dot.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
